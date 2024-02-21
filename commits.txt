@@ -1,0 +1,112 @@
+commit d0e1f337d2f712aa56f4953b2da826fec89e5e67
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Wed Feb 21 08:35:29 2024 -0300
+
+    agregando 2 parrafos
+
+commit b600233cb7da4e3fb6a016ee16e93e1a53a9c3b8
+Merge: eafe1fe 940f388
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Tue Feb 20 19:38:22 2024 -0300
+
+    agregando fechas a las estaciones del año
+
+commit eafe1fe76560218762511bf2968b7d29e676f95b
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Tue Feb 20 19:10:52 2024 -0300
+
+    agregando fecha a las estaciones del año
+
+commit 940f388a2151ad07092168ac10beb16ee00568d5
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Tue Feb 20 19:10:52 2024 -0300
+
+    agregando estaciones del año
+
+commit 1c6936355233e5eca104bb525f69aebb28ef0b59
+Merge: 98ceb52 a7d569c
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Tue Feb 20 18:35:19 2024 -0300
+
+    Merge branch 'html'
+
+commit a7d569c904051c3b31b98beba97c6ad629c59670
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Tue Feb 20 18:33:33 2024 -0300
+
+    agregando java.js al index.html
+
+commit 98ceb52657b96a6fd6f148dda6aeb02fb8357cc2
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Tue Feb 20 18:30:47 2024 -0300
+
+    cambios en html
+
+commit 8e7819d37475c367fdf7331a0dcfa12ee345281e
+Merge: 6fe0bbc 38c98f5
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Tue Feb 20 17:56:45 2024 -0300
+
+    Merge branch 'js'
+
+commit 38c98f591460fc49d4472128888afeebea9bcd60
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Sun Feb 18 11:43:53 2024 -0300
+
+    creando rama js
+
+commit 6fe0bbcc2397b093f5d5d91c58ecbf8cc4682909
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Fri Feb 16 10:28:53 2024 -0300
+
+    creamos la rama css y el archivo css
+
+commit 6ea4f469fc2da63b8a3dafa9f8ddfbda73364e62
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Fri Feb 16 08:58:21 2024 -0300
+
+    agregando archivos .docx
+
+commit acf147dd9eef5e232c8cc5410318a2d642749466
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Fri Feb 16 08:53:18 2024 -0300
+
+    creando rama html
+
+commit 4b751578e988dc16efdd6ae8d9cdd36698d26ca3
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Fri Feb 16 08:11:07 2024 -0300
+
+    eliminando archivo word para subir
+
+commit 46a4e00a9184e2ed1451dc3daf0fc38edab89f3d
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Thu Feb 15 11:02:33 2024 -0300
+
+    ignorando archivos .exe
+
+commit 528a58de9385d73173c3f031d622a996746181b2
+Author: NICOLAS PERALTA <94553871+nicolas6548@users.noreply.github.com>
+Date:   Tue Feb 13 18:52:57 2024 -0300
+
+    Create LICENSE
+    
+    creando licensia
+
+commit efbfea14b8638c5a8c8ea7b8d861de4748360669
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Tue Feb 13 18:34:04 2024 -0300
+
+    Agregando contenido a readme
+
+commit 342a008fbe51cdf793717a32c7adcaeb2bf33ca5
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Tue Feb 13 11:43:45 2024 -0300
+
+    saludo a jon mircha
+
+commit 332e1fe6d363bcadd990d2b51912ce5399ea0694
+Author: Nicolas Peralta <nicolasperalta6548@gmail.com>
+Date:   Tue Feb 13 11:38:07 2024 -0300
+
+    primer commit
